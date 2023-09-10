@@ -17,7 +17,8 @@ classifiers = [
 keywords = ["struct", "reverse-engineering"]
 requires-python = ">=3.9"
 dependencies = [
-    "self_documenting_struct>=0.9.1"
+    "self_documenting_struct>=0.9.1",
+    "Pillow>=10.0.0"
 ]
 
 [project.urls]
